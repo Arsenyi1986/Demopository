@@ -6,3 +6,5 @@ i did good
 
 now im testing gitkraken
 
+this file is supposed to be conflicting with the "early branch"
+
