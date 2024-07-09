@@ -8,3 +8,5 @@ now im testing gitkraken
 
 this file is supposed to be conflicting with the "early branch"
 
+
+this is a side branch made almost at the start
