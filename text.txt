@@ -6,5 +6,3 @@ i did good
 
 now im testing gitkraken
 
-this supposed to appear in side branch
-
